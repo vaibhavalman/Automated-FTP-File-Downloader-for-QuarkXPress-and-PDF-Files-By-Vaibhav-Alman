@@ -6,7 +6,7 @@ import shutil
 
 #FTP server details
 
-ftp_server = '192.168.xx.xx'
+ftp_server = 'xx.xx.xx.xx'
 ftp_username = 'xxx'
 ftp_password = 'xxx'
 remote_directory = '/mahape'
